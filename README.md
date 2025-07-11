@@ -181,6 +181,15 @@ Once connected, the public keys are exchanged automatically, and you can start c
 
 ---
 
+## 🖼️ Screenshots
+
+### Server GUI
+![Server](./assets/server.png)
+
+### Client GUI
+![Client](./assets/client.png)
+
+---
 
 ## 👨‍💻 Author
 
